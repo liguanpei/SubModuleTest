@@ -1,0 +1,3 @@
+[submodule "ccvide_brush_project"]
+	path = ccvide_brush_project
+	url = ../ccvide_brush_project.git
